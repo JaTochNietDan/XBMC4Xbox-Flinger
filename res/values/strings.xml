@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IP_PORT">IP:PORT</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="app_name">XBMC4Xbox Flinger</string>
+    <string name="save">Save</string>
+
+</resources>
